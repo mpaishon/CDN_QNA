@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BESWebReport>
 	<Name>Advanced QNA</Name>
-	<Description>AVP Webreport</Description>
+	<Description>Advanced Session Relevance Tester</Description>
 	<Type>CustomReport</Type>
-	<Source>AVP</Source>
+	<Source>BigFix</Source>
 	<Data>
  <![CDATA[
 <!--
